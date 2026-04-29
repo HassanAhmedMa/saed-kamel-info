@@ -21,7 +21,7 @@ window.profiles = {
       accent: "#ffb000",
       accentSoft: "rgba(255, 176, 0, 0.18)",
       shadow: "rgba(1, 14, 29, 0.42)",
-      cardBorder: "rgba(255, 255, 255, 0.08)"
+      cardBorder: "rgba(255, 255, 255, 0.08)" 
     }
   },
 
