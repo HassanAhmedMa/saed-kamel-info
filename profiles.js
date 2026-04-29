@@ -12,7 +12,7 @@ window.profiles = {
     image: "./assets/profiles/saed-kamel.png",
     imagePosition: "center 28%",
     tagline: "Scan. Connect. Save.",
-    theme: {
+    theme: {  
       bgMain: "#072543",
       bgSurface: "rgba(18, 54, 92, 0.92)",
       bgSurfaceStrong: "rgba(43, 84, 128, 0.82)",
