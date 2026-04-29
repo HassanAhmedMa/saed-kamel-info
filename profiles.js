@@ -10,7 +10,7 @@ window.profiles = {
     phone: "+201001040999",
     whatsapp: "+201001040999",
     image: "./assets/profiles/saed-kamel.png",
-    imagePosition: "center 22%",
+    imagePosition: "center 28%",
     tagline: "Scan. Connect. Save.",
     theme: {
       bgMain: "#072543",
