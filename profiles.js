@@ -16,7 +16,7 @@ window.profiles = {
       bgMain: "#072543",
       bgSurface: "rgba(18, 54, 92, 0.92)",
       bgSurfaceStrong: "rgba(43, 84, 128, 0.82)",
-      textMain: "#f4f8fc",
+      textMain: "#f4f8fc", 
       textSoft: "rgba(228, 239, 248, 0.72)",
       accent: "#ffb000",
       accentSoft: "rgba(255, 176, 0, 0.18)",
